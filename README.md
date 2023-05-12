@@ -4,7 +4,7 @@ These scripts are made available to facilitate the reproducibility of our resear
 
 ---------------------------
 
-### Accession numbers and desing files:
+### Accession number and desing files:
 
 Raw *16S* rRNA amplicon reads were deposited in the European Nucleotide Archive (ENA) under the accession number PRJEB61076.
 
