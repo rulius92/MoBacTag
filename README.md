@@ -45,7 +45,7 @@ Figure 6:
 Data extracted without any scripts are listed below: 
 - [frequency_primer_per_position.txt](https://github.com/thouinjulien/MoBacTag/blob/main/frequency_primer_per_position.txt)
 - [WCS358_16SvsBC.txt](https://github.com/thouinjulien/MoBacTag/blob/main/WCS358_16SvsBC.txt)
-- [MultipleBarcode.txt](https://github.com/thouinjulien/MoBacTag/blob/main/MultipleBarcode.txt)
+- [MultipleBarcodes.txt](https://github.com/thouinjulien/MoBacTag/blob/main/MultipleBarcodes.txt)
 
 ---------------------------
 
