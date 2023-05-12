@@ -1,7 +1,20 @@
 #############################################################################
 ############### Figure 6 ####################################################
 
+# set working directory, change it accordingly
 setwd("C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/subset_BC_vs_noBC/")
+
+# set directories
+results.dir <- "C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/results/"
+data.dir <- "C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/data/"
+figures.dir <- "C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/figures/"
+
+library("ggplot2")
+library("scales")
+library("grid")
+library("vegan")
+library("tidyverse")
+library("rstatix")
 
 ############## Figure 6 a - b ###############################################
 
