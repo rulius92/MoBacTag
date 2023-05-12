@@ -40,14 +40,14 @@ Figure 5:
 - [Figure5D-E.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure5D-E.R)
 
 Figure6:
-- [Figure6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure6.R)Figure6.R
+- [Figure6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure6.R)
 
 ---------------------------
 
 ### Supplementary data:
 
 Data extracted without any scripts are present are listed below: 
-- [frequency_primer_per_position.txt](https://github.com/thouinjulien/MoBacTag/blob/main/frequency_primer_per_position.txt)frequency_primer_per_position.txt
+- [frequency_primer_per_position.txt](https://github.com/thouinjulien/MoBacTag/blob/main/frequency_primer_per_position.txt)
 - [WCS358_16SvsBC.txt](https://github.com/thouinjulien/MoBacTag/blob/main/WCS358_16SvsBC.txt)
 - [MultipleBarcode.txt](https://github.com/thouinjulien/MoBacTag/blob/main/MultipleBarcode.txt)
 
