@@ -9,6 +9,10 @@ results.dir <- "C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/results/"
 data.dir <- "C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/data/"
 figures.dir <- "C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/figures/"
 
+# files
+design.file <- paste(data.dir, "MoBacTag_V2_design.txt", sep="")
+otu_table.file <- paste(results.dir, "merged_asv_table.txt", sep="")
+
 library("ggplot2")
 library("scales")
 library("grid")
