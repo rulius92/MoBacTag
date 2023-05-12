@@ -8,7 +8,7 @@ These scripts are made available to facilitate the reproducibility of our resear
 
 ---------------------------
 
-### Accession numbers
+### Accession numbers and desing files:
 
 Raw *16S* rRNA amplicon reads were deposited in the European Nucleotide Archive (ENA) under the accession number PRJEB61076.
 
@@ -18,7 +18,7 @@ The design files for the gnotobiotic SynCom experiment and the validation of the
 
 ---------------------------
 
-### Scripts used for processing data, creating the figures and performing the statistical analysis reported in the manuscript.
+### Scripts used for processing data, creating the figures and performing the statistical analysis reported in the manuscript:
 
 Raw data corresponding to the SynCom experiment or the validation of the oligonucleotides were processed as described in the manuscript and using the script syncom_ASV-table.sh
 
@@ -43,7 +43,7 @@ Figure6:
 
 ---------------------------
 
-### Supplementary data
+### Supplementary data:
 
 Manually curated data are present as follow: 
 - frequency_primer_per_position.txt
