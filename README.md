@@ -21,28 +21,28 @@ Raw data corresponding to the SynCom experiment or the validation of the oligonu
 Every plots were generated with R and each script is named regarding the figure from the publication.
 The scripts to generate the plots from the figures are listed below:
 
-Figure1: 
+Figure 1: 
 - [Figure1C.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure1C.R)
 
-Figure2: 
+Figure 2: 
 - [Figure2A-D.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure2A-D.R)
 - [Figure2E-F.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure2E-F.R)
 
-Figure4:
+Figure 4:
 - [Figure4.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure4.R)
 
 Figure 5: 
 - [Figure5A-C.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure5A-C.R)
 - [Figure5D-E.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure5D-E.R)
 
-Figure6:
+Figure 6:
 - [Figure6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure6.R)
 
 ---------------------------
 
 ### Supplementary data:
 
-Data extracted without any scripts are present are listed below: 
+Data extracted without any scripts are listed below: 
 - [frequency_primer_per_position.txt](https://github.com/thouinjulien/MoBacTag/blob/main/frequency_primer_per_position.txt)
 - [WCS358_16SvsBC.txt](https://github.com/thouinjulien/MoBacTag/blob/main/WCS358_16SvsBC.txt)
 - [MultipleBarcode.txt](https://github.com/thouinjulien/MoBacTag/blob/main/MultipleBarcode.txt)
