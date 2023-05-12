@@ -33,7 +33,7 @@ Figure 4:
 
 Figure 5: 
 - [Figure5A-C.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure5A-C.R)
-- [Figure5D-E.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure5D-E.R)
+- [Figure5D-G.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure5D-G.R)
 
 Figure 6:
 - [Figure6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure6.R)
