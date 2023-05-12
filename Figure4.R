@@ -16,6 +16,7 @@ library("scales")
 library("grid")
 library("vegan")
 library("rstatix")
+library("ggplot2")
 
 # load plotting functions
 source("C:/Users/Jana Ordon/Dropbox/R/MiSeq/plotting_functions.R")
