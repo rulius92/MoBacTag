@@ -5,7 +5,6 @@
 ## Scripts of Ordon, Thouin, *et. al*, Simultaneous tracking of near-isogenic bacterial strains in synthetic Arabidopsis microbiota by chromosomally-integrated barcodes.
 
 These scripts are made available to facilitate the reproducibility of our research. If you re-use any or part of this code, please reference with comments and cite our paper.
-Every plots were generated with R. Each script is named regarding the figure from the publication.
 
 ---------------------------
 
