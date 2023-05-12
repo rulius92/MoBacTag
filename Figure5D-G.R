@@ -5,6 +5,14 @@
 
 rm(list=ls())
 
+#libraries
+library("ggplot2")
+library("scales")
+library("grid")
+library("vegan")
+library("tidyverse")
+library("rstatix")
+
 # set working directory
 setwd("C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/")
 
