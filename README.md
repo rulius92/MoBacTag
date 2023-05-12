@@ -1,8 +1,4 @@
-# Pipeline to reproduce the Figures from the MoBacTag publication (https://doi.org/10.1101/2023.04.20.537712 )
-
----------------------------
-
-## Scripts of Ordon, Thouin, *et. al*, Simultaneous tracking of near-isogenic bacterial strains in synthetic Arabidopsis microbiota by chromosomally-integrated barcodes.
+## Scripts of Ordon, Thouin, *et. al*, Simultaneous tracking of near-isogenic bacterial strains in synthetic Arabidopsis microbiota by chromosomally-integrated barcodes. (https://doi.org/10.1101/2023.04.20.537712)
 
 These scripts are made available to facilitate the reproducibility of our research. If you re-use any or part of this code, please reference with comments and cite our paper.
 
@@ -53,7 +49,7 @@ Data extracted without any scripts are present are listed below:
 
 ---------------------------
 
-## Authors
+### Authors
 
 Jana Ordon (ordon@mpipz.mpg.de)
 
