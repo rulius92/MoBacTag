@@ -23,6 +23,11 @@ figures.dir <- "C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/subset_BC_vs_noB
 library("EnvStats")
 library("RColorBrewer")
 library("viridis")
+library("ggplot2")
+library("scales")
+library("grid")
+library("vegan")
+library("tidyverse")
 
 # files
 design.file <- paste(data.dir, "MoBacTag_V2_design.txt", sep="")
