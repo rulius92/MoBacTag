@@ -1,6 +1,8 @@
 #############################################################################
 ############### Figure 6 ####################################################
 
+setwd("C:/Users/Jana Ordon/Dropbox/R/MiSeq/MoBacTag_V2/subset_BC_vs_noBC/")
+
 ############## Figure 6 a - b ###############################################
 
 otu_table <- read.table(otu_table.file, sep="\t", header=T, check.names=F)
