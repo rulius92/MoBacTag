@@ -13,8 +13,8 @@ These scripts are made available to facilitate the reproducibility of our resear
 Raw *16S* rRNA amplicon reads were deposited in the European Nucleotide Archive (ENA) under the accession number PRJEB61076.
 
 The design files for the gnotobiotic SynCom experiment and the validation of the oligonucleotides:
-- MoBacTag_V2_design.txt
-- Validation-Primers_design.txt
+- [MoBacTag_V2_design.txt](https://github.com/thouinjulien/MoBacTag/blob/main/MoBacTag_V2_design.txt)
+- [Validation-Primers_design.txt](https://github.com/thouinjulien/MoBacTag/blob/main/Validation-Primers_design.txt)
 
 ---------------------------
 
