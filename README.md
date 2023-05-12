@@ -16,7 +16,7 @@ The design files for the gnotobiotic SynCom experiment and the validation of the
 
 ### Scripts used for processing data, creating the figures and performing the statistical analysis reported in the manuscript:
 
-Raw data corresponding to the SynCom experiment or the validation of the oligonucleotides were processed as described in the manuscript and using the script syncom_ASV-table.sh
+Raw data corresponding to the SynCom experiment or the validation of the oligonucleotides were processed as described in the manuscript and using the script [syncom_ASV-table.sh](https://github.com/thouinjulien/MoBacTag/blob/main/syncom_ASV-table.sh).
 
 Every plots were generated with R and each script is named regarding the figure from the publication.
 The scripts to generate the plots from the figures are listed below:
