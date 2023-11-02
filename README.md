@@ -40,7 +40,7 @@ Figure 6:
 
 Extended Data Figure 3:
 - [Extended_Data_Figure3A-B.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_Data_Figure3A-B.R)
-- [Extended_data_fig 3c,d.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_data_fig%203c%2Cd.R)
+- [Extended_data_fig 3C-D.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_data_fig%203C-D.R)
 
 Extended Data Figure 6:
 - [Extended_data_Fig_6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_data_Fig_6.R)
