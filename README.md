@@ -12,7 +12,7 @@ The design files for the gnotobiotic SynCom experiment and the validation of the
 - [MoBacTag_V2_design.txt](https://github.com/thouinjulien/MoBacTag/blob/main/MoBacTag_V2_design.txt)
 - [Validation-Primers_design.txt](https://github.com/thouinjulien/MoBacTag/blob/main/Validation-Primers_design.txt)
 
-The design files for the MoBacTag-labeled *Rhizobium* R13C and R13D in resident microbial communities of two soil types and a peat substrate:
+The design file for the MoBacTag-labeled *Rhizobium* R13C and R13D in resident microbial communities of two soil types and a peat substrate:
 - [MoBacTag_soil_design.txt](https://github.com/thouinjulien/MoBacTag/blob/main/MoBacTag_soil_design.txt)
 
 ---------------------------
