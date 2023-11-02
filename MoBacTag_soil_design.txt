@@ -1,0 +1,517 @@
+SampleID	strain	compartment	soil	bio_replicate	tech_replicate
+GH4_repA_001	R13DBC_R13CBC	Rhizosphere	Cas	A	1
+GH4_repA_002	R13DBC_R13CBC	Root	Cas	A	1
+GH4_repA_003	R13DBC_R13CBC	Rhizosphere	Cas	A	2
+GH4_repA_004	R13DBC_R13CBC	Root	Cas	A	2
+GH4_repA_005	R13DBC_R13CBC	Rhizosphere	Cas	A	3
+GH4_repA_006	R13DBC_R13CBC	Root	Cas	A	3
+GH4_repA_007	R13DBC_R13CBC	Rhizosphere	Cas	A	4
+GH4_repA_008	R13DBC_R13CBC	Root	Cas	A	4
+GH4_repA_009	R13DBC_R13CBC	Rhizosphere	Cas	A	5
+GH4_repA_010	R13DBC_R13CBC	Root	Cas	A	5
+GH4_repA_011	R13DBC_R13CBC	Rhizosphere	Cas	A	6
+GH4_repA_012	R13DBC_R13CBC	Root	Cas	A	6
+GH4_repA_013	R13DBC_R13CBC	Rhizosphere	Cas	A	7
+GH4_repA_014	R13DBC_R13CBC	Root	Cas	A	7
+GH4_repA_015	R13DBC_R13CBC	Rhizosphere	Cas	A	8
+GH4_repA_016	R13DBC_R13CBC	Root	Cas	A	8
+GH4_repA_017	R13DBC_R13CBC	Soil	Cas	A	1
+GH4_repA_018	R13DBC_R13CBC	Soil	Cas	A	2
+GH4_repA_019	R13DBC_R13CBC	Soil	Cas	A	3
+GH4_repA_020	R13DBC_R13CBC	Soil	Cas	A	4
+GH4_repA_021	R13DBC_R13CBC	Soil	Cas	A	5
+GH4_repA_022	R13DBC_R13CBC	Soil	Cas	A	6
+GH4_repA_023	R13DBC_R13CBC	Soil	Cas	A	7
+GH4_repA_024	R13DBC_R13CBC	Soil	Cas	A	8
+GH4_repA_025	R13Dmut300_R13CBC	Rhizosphere	Cas	A	1
+GH4_repA_026	R13Dmut300_R13CBC	Root	Cas	A	1
+GH4_repA_027	R13Dmut300_R13CBC	Rhizosphere	Cas	A	2
+GH4_repA_028	R13Dmut300_R13CBC	Root	Cas	A	2
+GH4_repA_029	R13Dmut300_R13CBC	Rhizosphere	Cas	A	3
+GH4_repA_030	R13Dmut300_R13CBC	Root	Cas	A	3
+GH4_repA_031	R13Dmut300_R13CBC	Rhizosphere	Cas	A	4
+GH4_repA_032	R13Dmut300_R13CBC	Root	Cas	A	4
+GH4_repA_033	R13Dmut300_R13CBC	Rhizosphere	Cas	A	5
+GH4_repA_034	R13Dmut300_R13CBC	Root	Cas	A	5
+GH4_repA_035	R13Dmut300_R13CBC	Rhizosphere	Cas	A	6
+GH4_repA_036	R13Dmut300_R13CBC	Root	Cas	A	6
+GH4_repA_037	R13Dmut300_R13CBC	Rhizosphere	Cas	A	7
+GH4_repA_038	R13Dmut300_R13CBC	Root	Cas	A	7
+GH4_repA_039	R13Dmut300_R13CBC	Rhizosphere	Cas	A	8
+GH4_repA_040	R13Dmut300_R13CBC	Root	Cas	A	8
+GH4_repA_041	R13Dmut300_R13CBC	Soil	Cas	A	1
+GH4_repA_042	R13Dmut300_R13CBC	Soil	Cas	A	2
+GH4_repA_043	R13Dmut300_R13CBC	Soil	Cas	A	3
+GH4_repA_044	R13Dmut300_R13CBC	Soil	Cas	A	4
+GH4_repA_045	R13Dmut300_R13CBC	Soil	Cas	A	5
+GH4_repA_046	R13Dmut300_R13CBC	Soil	Cas	A	6
+GH4_repA_047	R13Dmut300_R13CBC	Soil	Cas	A	7
+GH4_repA_048	R13Dmut300_R13CBC	Soil	Cas	A	8
+GH4_repA_049	R13DBC_R13Cmut300	Rhizosphere	Cas	A	1
+GH4_repA_050	R13DBC_R13Cmut300	Root	Cas	A	1
+GH4_repA_051	R13DBC_R13Cmut300	Rhizosphere	Cas	A	2
+GH4_repA_052	R13DBC_R13Cmut300	Root	Cas	A	2
+GH4_repA_053	R13DBC_R13Cmut300	Rhizosphere	Cas	A	3
+GH4_repA_054	R13DBC_R13Cmut300	Root	Cas	A	3
+GH4_repA_055	R13DBC_R13Cmut300	Rhizosphere	Cas	A	4
+GH4_repA_056	R13DBC_R13Cmut300	Root	Cas	A	4
+GH4_repA_057	R13DBC_R13Cmut300	Rhizosphere	Cas	A	5
+GH4_repA_058	R13DBC_R13Cmut300	Root	Cas	A	5
+GH4_repA_059	R13DBC_R13Cmut300	Rhizosphere	Cas	A	6
+GH4_repA_060	R13DBC_R13Cmut300	Root	Cas	A	6
+GH4_repA_061	R13DBC_R13Cmut300	Rhizosphere	Cas	A	7
+GH4_repA_062	R13DBC_R13Cmut300	Root	Cas	A	7
+GH4_repA_063	R13DBC_R13Cmut300	Rhizosphere	Cas	A	8
+GH4_repA_064	R13DBC_R13Cmut300	Root	Cas	A	8
+GH4_repA_065	R13DBC_R13Cmut300	Soil	Cas	A	1
+GH4_repA_066	R13DBC_R13Cmut300	Soil	Cas	A	2
+GH4_repA_067	R13DBC_R13Cmut300	Soil	Cas	A	3
+GH4_repA_068	R13DBC_R13Cmut300	Soil	Cas	A	4
+GH4_repA_069	R13DBC_R13Cmut300	Soil	Cas	A	5
+GH4_repA_070	R13DBC_R13Cmut300	Soil	Cas	A	6
+GH4_repA_071	R13DBC_R13Cmut300	Soil	Cas	A	7
+GH4_repA_072	R13DBC_R13Cmut300	Soil	Cas	A	8
+GH4_repA_073	R13DBC_R13CBC	Rhizosphere	Golm	A	1
+GH4_repA_074	R13DBC_R13CBC	Root	Golm	A	1
+GH4_repA_075	R13DBC_R13CBC	Rhizosphere	Golm	A	2
+GH4_repA_076	R13DBC_R13CBC	Root	Golm	A	2
+GH4_repA_077	R13DBC_R13CBC	Rhizosphere	Golm	A	3
+GH4_repA_078	R13DBC_R13CBC	Root	Golm	A	3
+GH4_repA_079	R13DBC_R13CBC	Rhizosphere	Golm	A	4
+GH4_repA_080	R13DBC_R13CBC	Root	Golm	A	4
+GH4_repA_081	R13DBC_R13CBC	Rhizosphere	Golm	A	5
+GH4_repA_082	R13DBC_R13CBC	Root	Golm	A	5
+GH4_repA_083	R13DBC_R13CBC	Rhizosphere	Golm	A	6
+GH4_repA_084	R13DBC_R13CBC	Root	Golm	A	6
+GH4_repA_085	R13DBC_R13CBC	Rhizosphere	Golm	A	7
+GH4_repA_086	R13DBC_R13CBC	Root	Golm	A	7
+GH4_repA_087	R13DBC_R13CBC	Rhizosphere	Golm	A	8
+GH4_repA_088	R13DBC_R13CBC	Root	Golm	A	8
+GH4_repA_089	R13DBC_R13CBC	Soil	Golm	A	1
+GH4_repA_090	R13DBC_R13CBC	Soil	Golm	A	2
+GH4_repA_091	R13DBC_R13CBC	Soil	Golm	A	3
+GH4_repA_092	R13DBC_R13CBC	Soil	Golm	A	4
+GH4_repA_093	R13DBC_R13CBC	Soil	Golm	A	5
+GH4_repA_094	R13DBC_R13CBC	Soil	Golm	A	6
+GH4_repA_095	R13DBC_R13CBC	Soil	Golm	A	7
+GH4_repA_096	R13DBC_R13CBC	Soil	Golm	A	8
+GH4_repA_097	R13Dmut300_R13CBC	Rhizosphere	Golm	A	1
+GH4_repA_098	R13Dmut300_R13CBC	Root	Golm	A	1
+GH4_repA_099	R13Dmut300_R13CBC	Rhizosphere	Golm	A	2
+GH4_repA_100	R13Dmut300_R13CBC	Root	Golm	A	2
+GH4_repA_101	R13Dmut300_R13CBC	Rhizosphere	Golm	A	3
+GH4_repA_102	R13Dmut300_R13CBC	Root	Golm	A	3
+GH4_repA_103	R13Dmut300_R13CBC	Rhizosphere	Golm	A	4
+GH4_repA_104	R13Dmut300_R13CBC	Root	Golm	A	4
+GH4_repA_105	R13Dmut300_R13CBC	Rhizosphere	Golm	A	5
+GH4_repA_106	R13Dmut300_R13CBC	Root	Golm	A	5
+GH4_repA_107	R13Dmut300_R13CBC	Rhizosphere	Golm	A	6
+GH4_repA_108	R13Dmut300_R13CBC	Root	Golm	A	6
+GH4_repA_109	R13Dmut300_R13CBC	Rhizosphere	Golm	A	7
+GH4_repA_110	R13Dmut300_R13CBC	Root	Golm	A	7
+GH4_repA_111	R13Dmut300_R13CBC	Rhizosphere	Golm	A	8
+GH4_repA_112	R13Dmut300_R13CBC	Root	Golm	A	8
+GH4_repA_113	R13Dmut300_R13CBC	Soil	Golm	A	1
+GH4_repA_114	R13Dmut300_R13CBC	Soil	Golm	A	2
+GH4_repA_115	R13Dmut300_R13CBC	Soil	Golm	A	3
+GH4_repA_116	R13Dmut300_R13CBC	Soil	Golm	A	4
+GH4_repA_117	R13Dmut300_R13CBC	Soil	Golm	A	5
+GH4_repA_118	R13Dmut300_R13CBC	Soil	Golm	A	6
+GH4_repA_119	R13Dmut300_R13CBC	Soil	Golm	A	7
+GH4_repA_120	R13Dmut300_R13CBC	Soil	Golm	A	8
+GH4_repA_121	R13DBC_R13Cmut300	Rhizosphere	Golm	A	1
+GH4_repA_122	R13DBC_R13Cmut300	Root	Golm	A	1
+GH4_repA_123	R13DBC_R13Cmut300	Rhizosphere	Golm	A	2
+GH4_repA_124	R13DBC_R13Cmut300	Root	Golm	A	2
+GH4_repA_125	R13DBC_R13Cmut300	Rhizosphere	Golm	A	3
+GH4_repA_126	R13DBC_R13Cmut300	Root	Golm	A	3
+GH4_repA_127	R13DBC_R13Cmut300	Rhizosphere	Golm	A	4
+GH4_repA_128	R13DBC_R13Cmut300	Root	Golm	A	4
+GH4_repA_129	R13DBC_R13Cmut300	Rhizosphere	Golm	A	5
+GH4_repA_130	R13DBC_R13Cmut300	Root	Golm	A	5
+GH4_repA_131	R13DBC_R13Cmut300	Rhizosphere	Golm	A	6
+GH4_repA_132	R13DBC_R13Cmut300	Root	Golm	A	6
+GH4_repA_133	R13DBC_R13Cmut300	Rhizosphere	Golm	A	7
+GH4_repA_134	R13DBC_R13Cmut300	Root	Golm	A	7
+GH4_repA_135	R13DBC_R13Cmut300	Rhizosphere	Golm	A	8
+GH4_repA_136	R13DBC_R13Cmut300	Root	Golm	A	8
+GH4_repA_137	R13DBC_R13Cmut300	Soil	Golm	A	1
+GH4_repA_138	R13DBC_R13Cmut300	Soil	Golm	A	2
+GH4_repA_139	R13DBC_R13Cmut300	Soil	Golm	A	3
+GH4_repA_140	R13DBC_R13Cmut300	Soil	Golm	A	4
+GH4_repA_141	R13DBC_R13Cmut300	Soil	Golm	A	5
+GH4_repA_142	R13DBC_R13Cmut300	Soil	Golm	A	6
+GH4_repA_143	R13DBC_R13Cmut300	Soil	Golm	A	7
+GH4_repA_144	R13DBC_R13Cmut300	Soil	Golm	A	8
+GH4_repA_145	R13DBC_R13CBC	Rhizosphere	Jify	A	1
+GH4_repA_146	R13DBC_R13CBC	Root	Jify	A	1
+GH4_repA_147	R13DBC_R13CBC	Rhizosphere	Jify	A	2
+GH4_repA_148	R13DBC_R13CBC	Root	Jify	A	2
+GH4_repA_149	R13DBC_R13CBC	Rhizosphere	Jify	A	3
+GH4_repA_150	R13DBC_R13CBC	Root	Jify	A	3
+GH4_repA_151	R13DBC_R13CBC	Rhizosphere	Jify	A	4
+GH4_repA_152	R13DBC_R13CBC	Root	Jify	A	4
+GH4_repA_153	R13DBC_R13CBC	Rhizosphere	Jify	A	5
+GH4_repA_154	R13DBC_R13CBC	Root	Jify	A	5
+GH4_repA_155	R13DBC_R13CBC	Rhizosphere	Jify	A	6
+GH4_repA_156	R13DBC_R13CBC	Root	Jify	A	6
+GH4_repA_157	R13DBC_R13CBC	Rhizosphere	Jify	A	7
+GH4_repA_158	R13DBC_R13CBC	Root	Jify	A	7
+GH4_repA_159	R13DBC_R13CBC	Rhizosphere	Jify	A	8
+GH4_repA_160	R13DBC_R13CBC	Root	Jify	A	8
+GH4_repA_161	R13DBC_R13CBC	Soil	Jify	A	1
+GH4_repA_162	R13DBC_R13CBC	Soil	Jify	A	2
+GH4_repA_163	R13DBC_R13CBC	Soil	Jify	A	3
+GH4_repA_164	R13DBC_R13CBC	Soil	Jify	A	4
+GH4_repA_165	R13DBC_R13CBC	Soil	Jify	A	5
+GH4_repA_166	R13DBC_R13CBC	Soil	Jify	A	6
+GH4_repA_167	R13DBC_R13CBC	Soil	Jify	A	7
+GH4_repA_168	R13DBC_R13CBC	Soil	Jify	A	8
+GH4_repA_169	R13Dmut300_R13CBC	Rhizosphere	Jify	A	1
+GH4_repA_170	R13Dmut300_R13CBC	Root	Jify	A	1
+GH4_repA_171	R13Dmut300_R13CBC	Rhizosphere	Jify	A	2
+GH4_repA_172	R13Dmut300_R13CBC	Root	Jify	A	2
+GH4_repA_173	R13Dmut300_R13CBC	Rhizosphere	Jify	A	3
+GH4_repA_174	R13Dmut300_R13CBC	Root	Jify	A	3
+GH4_repA_175	R13Dmut300_R13CBC	Rhizosphere	Jify	A	4
+GH4_repA_176	R13Dmut300_R13CBC	Root	Jify	A	4
+GH4_repA_177	R13Dmut300_R13CBC	Rhizosphere	Jify	A	5
+GH4_repA_178	R13Dmut300_R13CBC	Root	Jify	A	5
+GH4_repA_179	R13Dmut300_R13CBC	Rhizosphere	Jify	A	6
+GH4_repA_180	R13Dmut300_R13CBC	Root	Jify	A	6
+GH4_repA_181	R13Dmut300_R13CBC	Rhizosphere	Jify	A	7
+GH4_repA_182	R13Dmut300_R13CBC	Root	Jify	A	7
+GH4_repA_183	R13Dmut300_R13CBC	Rhizosphere	Jify	A	8
+GH4_repA_184	R13Dmut300_R13CBC	Root	Jify	A	8
+GH4_repA_185	R13Dmut300_R13CBC	Soil	Jify	A	1
+GH4_repA_186	R13Dmut300_R13CBC	Soil	Jify	A	2
+GH4_repA_187	R13Dmut300_R13CBC	Soil	Jify	A	3
+GH4_repA_188	R13Dmut300_R13CBC	Soil	Jify	A	4
+GH4_repA_189	R13Dmut300_R13CBC	Soil	Jify	A	5
+GH4_repA_190	R13Dmut300_R13CBC	Soil	Jify	A	6
+GH4_repA_191	R13Dmut300_R13CBC	Soil	Jify	A	7
+GH4_repA_192	R13Dmut300_R13CBC	Soil	Jify	A	8
+GH4_repA_193	R13DBC_R13Cmut300	Rhizosphere	Jify	A	1
+GH4_repA_194	R13DBC_R13Cmut300	Root	Jify	A	1
+GH4_repA_195	R13DBC_R13Cmut300	Rhizosphere	Jify	A	2
+GH4_repA_196	R13DBC_R13Cmut300	Root	Jify	A	2
+GH4_repA_197	R13DBC_R13Cmut300	Rhizosphere	Jify	A	3
+GH4_repA_198	R13DBC_R13Cmut300	Root	Jify	A	3
+GH4_repA_199	R13DBC_R13Cmut300	Rhizosphere	Jify	A	4
+GH4_repA_200	R13DBC_R13Cmut300	Root	Jify	A	4
+GH4_repA_201	R13DBC_R13Cmut300	Rhizosphere	Jify	A	5
+GH4_repA_202	R13DBC_R13Cmut300	Root	Jify	A	5
+GH4_repA_203	R13DBC_R13Cmut300	Rhizosphere	Jify	A	6
+GH4_repA_204	R13DBC_R13Cmut300	Root	Jify	A	6
+GH4_repA_205	R13DBC_R13Cmut300	Rhizosphere	Jify	A	7
+GH4_repA_206	R13DBC_R13Cmut300	Root	Jify	A	7
+GH4_repA_207	R13DBC_R13Cmut300	Rhizosphere	Jify	A	8
+GH4_repA_208	R13DBC_R13Cmut300	Root	Jify	A	8
+GH4_repA_209	R13DBC_R13Cmut300	Soil	Jify	A	1
+GH4_repA_210	R13DBC_R13Cmut300	Soil	Jify	A	2
+GH4_repA_211	R13DBC_R13Cmut300	Soil	Jify	A	3
+GH4_repA_212	R13DBC_R13Cmut300	Soil	Jify	A	4
+GH4_repA_213	R13DBC_R13Cmut300	Soil	Jify	A	5
+GH4_repA_214	R13DBC_R13Cmut300	Soil	Jify	A	6
+GH4_repA_215	R13DBC_R13Cmut300	Soil	Jify	A	7
+GH4_repA_216	R13DBC_R13Cmut300	Soil	Jify	A	8
+GH4_repA_217	R13DBC_R13CBC	Rhizosphere	Cas	B	1
+GH4_repA_218	R13DBC_R13CBC	Root	Cas	B	1
+GH4_repA_219	R13DBC_R13CBC	Rhizosphere	Cas	B	2
+GH4_repA_220	R13DBC_R13CBC	Root	Cas	B	2
+GH4_repA_221	R13DBC_R13CBC	Rhizosphere	Cas	B	3
+GH4_repA_222	R13DBC_R13CBC	Root	Cas	B	3
+GH4_repA_223	R13DBC_R13CBC	Rhizosphere	Cas	B	4
+GH4_repA_224	R13DBC_R13CBC	Root	Cas	B	4
+GH4_repA_225	R13DBC_R13CBC	Rhizosphere	Cas	B	5
+GH4_repA_226	R13DBC_R13CBC	Root	Cas	B	5
+GH4_repA_227	R13DBC_R13CBC	Rhizosphere	Cas	B	6
+GH4_repA_228	R13DBC_R13CBC	Root	Cas	B	6
+GH4_repA_229	R13DBC_R13CBC	Rhizosphere	Cas	B	7
+GH4_repA_230	R13DBC_R13CBC	Root	Cas	B	7
+GH4_repA_231	R13DBC_R13CBC	Rhizosphere	Cas	B	8
+GH4_repA_232	R13DBC_R13CBC	Root	Cas	B	8
+GH4_repA_233	R13DBC_R13CBC	Soil	Cas	B	1
+GH4_repA_234	R13DBC_R13CBC	Soil	Cas	B	2
+GH4_repA_235	R13DBC_R13CBC	Soil	Cas	B	3
+GH4_repA_236	R13DBC_R13CBC	Soil	Cas	B	4
+GH4_repA_237	R13DBC_R13CBC	Soil	Cas	B	5
+GH4_repA_238	R13DBC_R13CBC	Soil	Cas	B	6
+GH4_repA_239	R13DBC_R13CBC	Soil	Cas	B	7
+GH4_repA_240	R13DBC_R13CBC	Soil	Cas	B	8
+GH4_repA_241	R13Dmut300_R13CBC	Rhizosphere	Cas	B	1
+GH4_repA_242	R13Dmut300_R13CBC	Root	Cas	B	1
+GH4_repA_243	R13Dmut300_R13CBC	Rhizosphere	Cas	B	2
+GH4_repA_244	R13Dmut300_R13CBC	Root	Cas	B	2
+GH4_repA_245	R13Dmut300_R13CBC	Rhizosphere	Cas	B	3
+GH4_repA_246	R13Dmut300_R13CBC	Root	Cas	B	3
+GH4_repA_247	R13Dmut300_R13CBC	Rhizosphere	Cas	B	4
+GH4_repA_248	R13Dmut300_R13CBC	Root	Cas	B	4
+GH4_repA_249	R13Dmut300_R13CBC	Rhizosphere	Cas	B	5
+GH4_repA_250	R13Dmut300_R13CBC	Root	Cas	B	5
+GH4_repA_251	R13Dmut300_R13CBC	Rhizosphere	Cas	B	6
+GH4_repA_252	R13Dmut300_R13CBC	Root	Cas	B	6
+GH4_repA_253	R13Dmut300_R13CBC	Rhizosphere	Cas	B	7
+GH4_repA_254	R13Dmut300_R13CBC	Root	Cas	B	7
+GH4_repA_255	R13Dmut300_R13CBC	Rhizosphere	Cas	B	8
+GH4_repA_256	R13Dmut300_R13CBC	Root	Cas	B	8
+GH4_repA_257	R13Dmut300_R13CBC	Soil	Cas	B	1
+GH4_repA_258	R13Dmut300_R13CBC	Soil	Cas	B	2
+GH4_repA_259	R13Dmut300_R13CBC	Soil	Cas	B	3
+GH4_repA_260	R13Dmut300_R13CBC	Soil	Cas	B	4
+GH4_repA_261	R13Dmut300_R13CBC	Soil	Cas	B	5
+GH4_repA_262	R13Dmut300_R13CBC	Soil	Cas	B	6
+GH4_repA_263	R13Dmut300_R13CBC	Soil	Cas	B	7
+GH4_repA_264	R13Dmut300_R13CBC	Soil	Cas	B	8
+GH4_repA_265	R13DBC_R13Cmut300	Rhizosphere	Cas	B	1
+GH4_repA_266	R13DBC_R13Cmut300	Root	Cas	B	1
+GH4_repA_267	R13DBC_R13Cmut300	Rhizosphere	Cas	B	2
+GH4_repA_268	R13DBC_R13Cmut300	Root	Cas	B	2
+GH4_repA_269	R13DBC_R13Cmut300	Rhizosphere	Cas	B	3
+GH4_repA_270	R13DBC_R13Cmut300	Root	Cas	B	3
+GH4_repA_271	R13DBC_R13Cmut300	Rhizosphere	Cas	B	4
+GH4_repA_272	R13DBC_R13Cmut300	Root	Cas	B	4
+GH4_repA_273	R13DBC_R13Cmut300	Rhizosphere	Cas	B	5
+GH4_repA_274	R13DBC_R13Cmut300	Root	Cas	B	5
+GH4_repA_275	R13DBC_R13Cmut300	Rhizosphere	Cas	B	6
+GH4_repA_276	R13DBC_R13Cmut300	Root	Cas	B	6
+GH4_repA_277	R13DBC_R13Cmut300	Rhizosphere	Cas	B	7
+GH4_repA_278	R13DBC_R13Cmut300	Root	Cas	B	7
+GH4_repA_279	R13DBC_R13Cmut300	Empty	Cas	B	8
+GH4_repA_280	R13DBC_R13Cmut300	Empty	Cas	B	8
+GH4_repA_281	R13DBC_R13Cmut300	Soil	Cas	B	1
+GH4_repA_282	R13DBC_R13Cmut300	Soil	Cas	B	2
+GH4_repA_283	R13DBC_R13Cmut300	Soil	Cas	B	3
+GH4_repA_284	R13DBC_R13Cmut300	Soil	Cas	B	4
+GH4_repA_285	R13DBC_R13Cmut300	Soil	Cas	B	5
+GH4_repA_286	R13DBC_R13Cmut300	Soil	Cas	B	6
+GH4_repA_287	R13DBC_R13Cmut300	Soil	Cas	B	7
+GH4_repA_288	R13DBC_R13Cmut300	Soil	Cas	B	8
+GH4_repA_289	R13DBC_R13CBC	Rhizosphere	Golm	B	1
+GH4_repA_290	R13DBC_R13CBC	Root	Golm	B	1
+GH4_repA_291	R13DBC_R13CBC	Rhizosphere	Golm	B	2
+GH4_repA_292	R13DBC_R13CBC	Root	Golm	B	2
+GH4_repA_293	R13DBC_R13CBC	Rhizosphere	Golm	B	3
+GH4_repA_294	R13DBC_R13CBC	Root	Golm	B	3
+GH4_repA_295	R13DBC_R13CBC	Rhizosphere	Golm	B	4
+GH4_repA_296	R13DBC_R13CBC	Root	Golm	B	4
+GH4_repA_297	R13DBC_R13CBC	Rhizosphere	Golm	B	5
+GH4_repA_298	R13DBC_R13CBC	Root	Golm	B	5
+GH4_repA_299	R13DBC_R13CBC	Rhizosphere	Golm	B	6
+GH4_repA_300	R13DBC_R13CBC	Root	Golm	B	6
+GH4_repA_301	R13DBC_R13CBC	Rhizosphere	Golm	B	7
+GH4_repA_302	R13DBC_R13CBC	Root	Golm	B	7
+GH4_repA_303	R13DBC_R13CBC	Rhizosphere	Golm	B	8
+GH4_repA_304	R13DBC_R13CBC	Root	Golm	B	8
+GH4_repA_305	R13DBC_R13CBC	Soil	Golm	B	1
+GH4_repA_306	R13DBC_R13CBC	Soil	Golm	B	2
+GH4_repA_307	R13DBC_R13CBC	Soil	Golm	B	3
+GH4_repA_308	R13DBC_R13CBC	Soil	Golm	B	4
+GH4_repA_309	R13DBC_R13CBC	Soil	Golm	B	5
+GH4_repA_310	R13DBC_R13CBC	Soil	Golm	B	6
+GH4_repA_311	R13DBC_R13CBC	Soil	Golm	B	7
+GH4_repA_312	R13DBC_R13CBC	Soil	Golm	B	8
+GH4_repA_313	R13Dmut300_R13CBC	Rhizosphere	Golm	B	1
+GH4_repA_314	R13Dmut300_R13CBC	Root	Golm	B	1
+GH4_repA_315	R13Dmut300_R13CBC	Rhizosphere	Golm	B	2
+GH4_repA_316	R13Dmut300_R13CBC	Root	Golm	B	2
+GH4_repA_317	R13Dmut300_R13CBC	Rhizosphere	Golm	B	3
+GH4_repA_318	R13Dmut300_R13CBC	Root	Golm	B	3
+GH4_repA_319	R13Dmut300_R13CBC	Rhizosphere	Golm	B	4
+GH4_repA_320	R13Dmut300_R13CBC	Root	Golm	B	4
+GH4_repA_321	R13Dmut300_R13CBC	Rhizosphere	Golm	B	5
+GH4_repA_322	R13Dmut300_R13CBC	Root	Golm	B	5
+GH4_repA_323	R13Dmut300_R13CBC	Rhizosphere	Golm	B	6
+GH4_repA_324	R13Dmut300_R13CBC	Root	Golm	B	6
+GH4_repA_325	R13Dmut300_R13CBC	Rhizosphere	Golm	B	7
+GH4_repA_326	R13Dmut300_R13CBC	Root	Golm	B	7
+GH4_repA_327	R13Dmut300_R13CBC	Rhizosphere	Golm	B	8
+GH4_repA_328	R13Dmut300_R13CBC	Root	Golm	B	8
+GH4_repA_329	R13Dmut300_R13CBC	Soil	Golm	B	1
+GH4_repA_330	R13Dmut300_R13CBC	Soil	Golm	B	2
+GH4_repA_331	R13Dmut300_R13CBC	Soil	Golm	B	3
+GH4_repA_332	R13Dmut300_R13CBC	Soil	Golm	B	4
+GH4_repA_333	R13Dmut300_R13CBC	Soil	Golm	B	5
+GH4_repA_334	R13Dmut300_R13CBC	Soil	Golm	B	6
+GH4_repA_335	R13Dmut300_R13CBC	Soil	Golm	B	7
+GH4_repA_336	R13Dmut300_R13CBC	Soil	Golm	B	8
+GH4_repA_337	R13DBC_R13Cmut300	Rhizosphere	Golm	B	1
+GH4_repA_338	R13DBC_R13Cmut300	Root	Golm	B	1
+GH4_repA_339	R13DBC_R13Cmut300	Rhizosphere	Golm	B	2
+GH4_repA_340	R13DBC_R13Cmut300	Root	Golm	B	2
+GH4_repA_341	R13DBC_R13Cmut300	Rhizosphere	Golm	B	3
+GH4_repA_342	R13DBC_R13Cmut300	Root	Golm	B	3
+GH4_repA_343	R13DBC_R13Cmut300	Rhizosphere	Golm	B	4
+GH4_repA_344	R13DBC_R13Cmut300	Root	Golm	B	4
+GH4_repA_345	R13DBC_R13Cmut300	Rhizosphere	Golm	B	5
+GH4_repA_346	R13DBC_R13Cmut300	Root	Golm	B	5
+GH4_repA_347	R13DBC_R13Cmut300	Rhizosphere	Golm	B	6
+GH4_repA_348	R13DBC_R13Cmut300	Root	Golm	B	6
+GH4_repA_349	R13DBC_R13Cmut300	Rhizosphere	Golm	B	7
+GH4_repA_350	R13DBC_R13Cmut300	Root	Golm	B	7
+GH4_repA_351	R13DBC_R13Cmut300	Rhizosphere	Golm	B	8
+GH4_repA_352	R13DBC_R13Cmut300	Root	Golm	B	8
+GH4_repA_353	R13DBC_R13Cmut300	Soil	Golm	B	1
+GH4_repA_354	R13DBC_R13Cmut300	Soil	Golm	B	2
+GH4_repA_355	R13DBC_R13Cmut300	Soil	Golm	B	3
+GH4_repA_356	R13DBC_R13Cmut300	Soil	Golm	B	4
+GH4_repA_357	R13DBC_R13Cmut300	Soil	Golm	B	5
+GH4_repA_358	R13DBC_R13Cmut300	Soil	Golm	B	6
+GH4_repA_359	R13DBC_R13Cmut300	Soil	Golm	B	7
+GH4_repA_360	R13DBC_R13Cmut300	Soil	Golm	B	8
+GH4_repA_361	R13DBC_R13CBC	Rhizosphere	Jify	B	1
+GH4_repA_362	R13DBC_R13CBC	Root	Jify	B	1
+GH4_repA_363	R13DBC_R13CBC	Rhizosphere	Jify	B	2
+GH4_repA_364	R13DBC_R13CBC	Root	Jify	B	2
+GH4_repA_365	R13DBC_R13CBC	Rhizosphere	Jify	B	3
+GH4_repA_366	R13DBC_R13CBC	Root	Jify	B	3
+GH4_repA_367	R13DBC_R13CBC	Rhizosphere	Jify	B	4
+GH4_repA_368	R13DBC_R13CBC	Root	Jify	B	4
+GH4_repA_369	R13DBC_R13CBC	Rhizosphere	Jify	B	5
+GH4_repA_370	R13DBC_R13CBC	Root	Jify	B	5
+GH4_repA_371	R13DBC_R13CBC	Rhizosphere	Jify	B	6
+GH4_repA_372	R13DBC_R13CBC	Root	Jify	B	6
+GH4_repA_373	R13DBC_R13CBC	Rhizosphere	Jify	B	7
+GH4_repA_374	R13DBC_R13CBC	Root	Jify	B	7
+GH4_repA_375	R13DBC_R13CBC	Rhizosphere	Jify	B	8
+GH4_repA_376	R13DBC_R13CBC	Root	Jify	B	8
+GH4_repA_377	R13DBC_R13CBC	Soil	Jify	B	1
+GH4_repA_378	R13DBC_R13CBC	Soil	Jify	B	2
+GH4_repA_379	R13DBC_R13CBC	Soil	Jify	B	3
+GH4_repA_380	R13DBC_R13CBC	Soil	Jify	B	4
+GH4_repA_381	R13DBC_R13CBC	Soil	Jify	B	5
+GH4_repA_382	R13DBC_R13CBC	Soil	Jify	B	6
+GH4_repA_383	R13DBC_R13CBC	Soil	Jify	B	7
+GH4_repA_384	R13DBC_R13CBC	Soil	Jify	B	8
+GH4_repA_385	R13Dmut300_R13CBC	Rhizosphere	Jify	B	1
+GH4_repA_386	R13Dmut300_R13CBC	Root	Jify	B	1
+GH4_repA_387	R13Dmut300_R13CBC	Rhizosphere	Jify	B	2
+GH4_repA_388	R13Dmut300_R13CBC	Root	Jify	B	2
+GH4_repA_389	R13Dmut300_R13CBC	Rhizosphere	Jify	B	3
+GH4_repA_390	R13Dmut300_R13CBC	Root	Jify	B	3
+GH4_repA_391	R13Dmut300_R13CBC	Rhizosphere	Jify	B	4
+GH4_repA_392	R13Dmut300_R13CBC	Root	Jify	B	4
+GH4_repA_393	R13Dmut300_R13CBC	Rhizosphere	Jify	B	5
+GH4_repA_394	R13Dmut300_R13CBC	Root	Jify	B	5
+GH4_repA_395	R13Dmut300_R13CBC	Rhizosphere	Jify	B	6
+GH4_repA_396	R13Dmut300_R13CBC	Root	Jify	B	6
+GH4_repA_397	R13Dmut300_R13CBC	Rhizosphere	Jify	B	7
+GH4_repA_398	R13Dmut300_R13CBC	Root	Jify	B	7
+GH4_repA_399	R13Dmut300_R13CBC	Rhizosphere	Jify	B	8
+GH4_repA_400	R13Dmut300_R13CBC	Root	Jify	B	8
+GH4_repA_401	R13Dmut300_R13CBC	Soil	Jify	B	1
+GH4_repA_402	R13Dmut300_R13CBC	Soil	Jify	B	2
+GH4_repA_403	R13Dmut300_R13CBC	Soil	Jify	B	3
+GH4_repA_404	R13Dmut300_R13CBC	Soil	Jify	B	4
+GH4_repA_405	R13Dmut300_R13CBC	Soil	Jify	B	5
+GH4_repA_406	R13Dmut300_R13CBC	Soil	Jify	B	6
+GH4_repA_407	R13Dmut300_R13CBC	Soil	Jify	B	7
+GH4_repA_408	R13Dmut300_R13CBC	Soil	Jify	B	8
+GH4_repA_409	R13DBC_R13Cmut300	Rhizosphere	Jify	B	1
+GH4_repA_410	R13DBC_R13Cmut300	Root	Jify	B	1
+GH4_repA_411	R13DBC_R13Cmut300	Rhizosphere	Jify	B	2
+GH4_repA_412	R13DBC_R13Cmut300	Root	Jify	B	2
+GH4_repA_413	R13DBC_R13Cmut300	Rhizosphere	Jify	B	3
+GH4_repA_414	R13DBC_R13Cmut300	Root	Jify	B	3
+GH4_repA_415	R13DBC_R13Cmut300	Rhizosphere	Jify	B	4
+GH4_repA_416	R13DBC_R13Cmut300	Root	Jify	B	4
+GH4_repA_417	R13DBC_R13Cmut300	Rhizosphere	Jify	B	5
+GH4_repA_418	R13DBC_R13Cmut300	Root	Jify	B	5
+GH4_repA_419	R13DBC_R13Cmut300	Rhizosphere	Jify	B	6
+GH4_repA_420	R13DBC_R13Cmut300	Root	Jify	B	6
+GH4_repA_421	R13DBC_R13Cmut300	Rhizosphere	Jify	B	7
+GH4_repA_422	R13DBC_R13Cmut300	Root	Jify	B	7
+GH4_repA_423	R13DBC_R13Cmut300	Rhizosphere	Jify	B	8
+GH4_repA_424	R13DBC_R13Cmut300	Root	Jify	B	8
+GH4_repA_425	R13DBC_R13Cmut300	Soil	Jify	B	1
+GH4_repA_426	R13DBC_R13Cmut300	Soil	Jify	B	2
+GH4_repA_427	R13DBC_R13Cmut300	Soil	Jify	B	3
+GH4_repA_428	R13DBC_R13Cmut300	Soil	Jify	B	4
+GH4_repA_429	R13DBC_R13Cmut300	Soil	Jify	B	5
+GH4_repA_430	R13DBC_R13Cmut300	Soil	Jify	B	6
+GH4_repA_431	R13DBC_R13Cmut300	Soil	Jify	B	7
+GH4_repA_432	R13DBC_R13Cmut300	Soil	Jify	B	8
+GH4_repA_433	R13DBC	Input	culture	A	
+GH4_repA_434	R13CBD	Input	culture	A	
+GH4_repA_435	R13Dmut300	Input	culture	A	
+GH4_repA_436	R13Cmut300	Input	culture	A	
+GH4_repA_437	R13DBC_R13CBC	Input	Inoc	A	
+GH4_repA_438	R13Dmut300_R13CBC	Input	Inoc	A	
+GH4_repA_439	R13DBC_R13Cmut300	Input	Inoc	A	
+GH4_repA_440	R13DBC	Input	culture	B	
+GH4_repA_441	R13CBD	Input	culture	B	
+GH4_repA_442	R13Dmut300	Input	culture	B	
+GH4_repA_443	R13Cmut300	Input	culture	B	
+GH4_repA_444	R13DBC_R13CBC	Input	Inoc	B	
+GH4_repA_445	R13Dmut300_R13CBC	Input	Inoc	B	
+GH4_repA_446	R13DBC_R13Cmut300	Input	Inoc	B	
+GH4_repA_447	control	Soil	Cas	B	
+GH4_repA_448	control	Soil	Cas	B	
+GH4_repA_449	control	Rhizosphere	Cas	B	
+GH4_repA_450	control	Root	Cas	B	
+GH4_repA_451	control	Rhizosphere	Cas	B	
+GH4_repA_452	control	Root	Cas	B	
+GH4_repA_453	control	Soil	Golm	B	
+GH4_repA_454	control	Soil	Golm	B	
+GH4_repA_455	control	Rhizosphere	Golm	B	
+GH4_repA_456	control	Root	Golm	B	
+GH4_repA_457	control	Rhizosphere	Golm	B	
+GH4_repA_458	control	Root	Golm	B	
+GH4_repA_459	control	Soil	Jify	B	
+GH4_repA_460	control	Soil	Jify	B	
+GH4_repA_461	control	Rhizosphere	Jify	B	
+GH4_repA_462	control	Root	Jify	B	
+GH4_repA_463	control	Rhizosphere	Jify	B	
+GH4_repA_464	control	Root	Jify	B	
+GH4_repA_465		Empty			
+GH4_repA_466		Empty			
+GH4_repA_467		Empty			
+GH4_repA_468		Empty			
+GH4_repA_469	R13DBC_dil	R13DBC	Input	A	
+GH4_repA_470	R13DBC_dil	R13DBC	Input	A	
+GH4_repA_471	R13DBC_dil	R13DBC	Input	A	
+GH4_repA_472	R13DBC_dil	R13DBC	Input	A	
+GH4_repA_473	R13DBC_dil	R13DBC	Input	A	
+GH4_repA_474	R13DBC_dil	R13DBC	Input	A	
+GH4_repA_475	R13DBC_dil	R13DBC	Input	B	
+GH4_repA_476	R13DBC_dil	R13DBC	Input	B	
+GH4_repA_477	R13DBC_dil	R13DBC	Input	B	
+GH4_repA_478	R13DBC_dil	R13DBC	Input	B	
+GH4_repA_479	R13DBC_dil	R13DBC	Input	B	
+GH4_repA_480	R13DBC_dil	R13DBC	Input	B	
+GH4_repA_481	R13CBC_dil	R13CBD	Input	A	
+GH4_repA_482	R13CBC_dil	R13CBD	Input	A	
+GH4_repA_483	R13CBC_dil	R13CBD	Input	A	
+GH4_repA_484	R13CBC_dil	R13CBD	Input	A	
+GH4_repA_485	R13CBC_dil	R13CBD	Input	A	
+GH4_repA_486	R13CBC_dil	R13CBD	Input	A	
+GH4_repA_487	R13CBC_dil	R13CBD	Input	B	
+GH4_repA_488	R13CBC_dil	R13CBD	Input	B	
+GH4_repA_489	R13CBC_dil	R13CBD	Input	B	
+GH4_repA_490	R13CBC_dil	R13CBD	Input	B	
+GH4_repA_491	R13CBC_dil	R13CBD	Input	B	
+GH4_repA_492	R13CBC_dil	R13CBD	Input	B	
+GH4_repA_493	R13Dmut300_dil	R13Dmut300	Input	A	
+GH4_repA_494	R13Dmut300_dil	R13Dmut301	Input	A	
+GH4_repA_495	R13Dmut300_dil	R13Dmut302	Input	A	
+GH4_repA_496	R13Dmut300_dil	R13Dmut303	Input	A	
+GH4_repA_497	R13Dmut300_dil	R13Dmut304	Input	A	
+GH4_repA_498	R13Dmut300_dil	R13Dmut305	Input	A	
+GH4_repA_499	R13Dmut300_dil	R13Dmut306	Input	B	
+GH4_repA_500	R13Dmut300_dil	R13Dmut307	Input	B	
+GH4_repA_501	R13Dmut300_dil	R13Dmut308	Input	B	
+GH4_repA_502	R13Dmut300_dil	R13Dmut309	Input	B	
+GH4_repA_503	R13Dmut300_dil	R13Dmut310	Input	B	
+GH4_repA_504	R13Dmut300_dil	R13Dmut311	Input	B	
+GH4_repA_505	R13Cmut300_dil	R13Cmut300	Input	A	
+GH4_repA_506	R13Cmut300_dil	R13Cmut301	Input	A	
+GH4_repA_507	R13Cmut300_dil	R13Cmut302	Input	A	
+GH4_repA_508	R13Cmut300_dil	R13Cmut303	Input	A	
+GH4_repA_509	R13Cmut300_dil	R13Cmut304	Input	A	
+GH4_repA_510	R13Cmut300_dil	R13Cmut305	Input	A	
+GH4_repA_511	R13Cmut300_dil	R13Cmut306	Input	B	
+GH4_repA_512	R13Cmut300_dil	R13Cmut307	Input	B	
+GH4_repA_513	R13Cmut300_dil	R13Cmut308	Input	B	
+GH4_repA_514	R13Cmut300_dil	R13Cmut309	Input	B	
+GH4_repA_515	R13Cmut300_dil	R13Cmut310	Input	B	
+GH4_repA_516	R13Cmut300_dil	R13Cmut311	Input	B	
