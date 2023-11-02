@@ -25,8 +25,8 @@ Figure 1:
 - [Figure1C.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure1C.R)
 
 Figure 2: 
-- [Figure2A-D.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure2A-D.R)
-- [Figure2E-F.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure2E-F.R)
+- [Figure2B-C.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure2B-C.R)
+- [Figure2D-F.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure2D-F.R)
 
 Figure 4:
 - [Figure4.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure4.R)
@@ -39,6 +39,7 @@ Figure 6:
 - [Figure6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure6.R)
 
 Extended Data Figure 3:
+- [Extended_Data_Figure3A-B.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_Data_Figure3A-B.R)
 - [Extended_data_fig 3c,d.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_data_fig%203c%2Cd.R)
 
 Extended Data Figure 6:
