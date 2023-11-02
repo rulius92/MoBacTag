@@ -39,13 +39,13 @@ Figure 6:
 - [Figure6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Figure6.R)
 
 Extended Data Figure 3:
-- [Figure6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_data_fig%203c%2Cd.R)
+- [Extended_data_fig 3c,d.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_data_fig%203c%2Cd.R)
 
 Extended Data Figure 6:
-- [Figure6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_data_Fig_6.R)
+- [Extended_data_Fig_6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_data_Fig_6.R)
 
 Extended Data Figure 7:
-- [Figure6.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_Data_Figure_7.R)
+- [Extended_Data_Figure_7.R](https://github.com/thouinjulien/MoBacTag/blob/main/Extended_Data_Figure_7.R)
 
 ---------------------------
 
